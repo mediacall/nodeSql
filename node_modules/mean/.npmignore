@@ -1,0 +1,7 @@
+lib-cov
+coverage.cov
+.coveralls.yml
+.travis.yml
+dist
+.bower.json
+.component.json

@@ -1,0 +1,14 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "main": "dist/mean.js",
+  "ignore": [
+    ".tern-project",
+    "node_modules",
+    "src",
+    "test",
+    "component.json",
+    "Makefile",
+    "package.json"
+  ]
+}

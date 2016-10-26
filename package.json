@@ -1,0 +1,35 @@
+{
+  "name": "nodesql",
+  "version": "1.0.0",
+  "description": "demo of nodejs with sql",
+  "main": "index.js",
+  "dependencies": {
+    "nodesql": "^0.2.4"
+  },
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "http-server": "^0.9.0",
+    "less": "^2.7.1",
+    "mean": "^1.0.0",
+    "yo": "^1.8.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mediacall/nodeSql.git"
+  },
+  "keywords": [
+    "node",
+    "sql"
+  ],
+  "author": "naveen jaiswal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mediacall/nodeSql/issues"
+  },
+  "homepage": "https://github.com/mediacall/nodeSql#readme"
+}
